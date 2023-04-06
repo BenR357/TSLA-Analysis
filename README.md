@@ -14,7 +14,7 @@ Disclaimer: Please note that Stonebridge Investments is a fictitious company and
 <h2>Programs and Languages Utilized</h2>
 
 - <b>R Programming</b> [Click here to view the detailed walkthrough](TSLA Walkthrough.html)
-- <b>Google Slides</b> <a href="https://docs.google.com/presentation/d/1lKEfvHA1A0PwmzfiniiFrlW4KaJ01p5mnufWade_g_Y/edit?usp=sharing">link to presentation 
+- <b>Google Slides</b> <a href="https://docs.google.com/presentation/d/1bxI4LqNQNOwvKGtAQwgJTeu1j2jsg64hGSggVEnlWwQ/edit?usp=sharing">link to presentation 
 <br />
 
 
