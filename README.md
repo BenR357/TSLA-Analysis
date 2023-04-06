@@ -13,7 +13,7 @@ Disclaimer: Please note that Stonebridge Investments is a fictitious company and
 
 <h2>Programs and Languages Utilized</h2>
 
-- <b>R Programming</b> 
+- <b>R Programming</b> <a href="https://raw.githubusercontent.com/BenR357/TSLA-Analysis/main/TSLA%20Walkthrough.html">link to walkthrough
 - <b>Google Slides</b> <a href="https://docs.google.com/presentation/d/1lKEfvHA1A0PwmzfiniiFrlW4KaJ01p5mnufWade_g_Y/edit?usp=sharing">link to presentation 
 
 
