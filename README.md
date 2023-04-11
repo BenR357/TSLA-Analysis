@@ -24,7 +24,10 @@ Disclaimer: Please note that Stonebridge Investments is a fictitious company and
 R programming is a powerful data analysis and visualization software. I began with importing the information R (into https://posit.cloud/) and cleaning the data. Utilizing the software, I exported several different statistics and created a variety of graphs in order to visualize the data. I have included a few screen shots of my code and visualizations. To see the entire markdown report, click this (TSLA Walkthrough.html) link
 
 <br /><br />
- 
+ ![image](https://user-images.githubusercontent.com/129348678/231303470-f2508553-58e9-4b96-9a43-2b352c17e48c.png)
+<br />
+ ![image](https://user-images.githubusercontent.com/129348678/231303599-c223d1bf-810f-43fd-b36f-cefd10ef5cdc.png)
+
 
 <h3>Presentation</h3>
 
