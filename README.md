@@ -25,13 +25,20 @@ R programming is a robust software tool for data analysis and visualization. In 
 
 <br /><br />
  ![image](https://user-images.githubusercontent.com/129348678/231303470-f2508553-58e9-4b96-9a43-2b352c17e48c.png)
-<br />
+<br /><br />
  ![image](https://user-images.githubusercontent.com/129348678/231303599-c223d1bf-810f-43fd-b36f-cefd10ef5cdc.png)
-
+<br /><br />
 
 <h3>Presentation</h3>
-
-
+I used Google Slides to create a presentation for showcasing the data. I have attached a couple of images for a quick review. While other visualization software may offer more visually appealing charts, I chose to include the R programming charts to demonstrate my proficiency in R programming. To see the presentation itself, follow this <a href="https://docs.google.com/presentation/d/1bxI4LqNQNOwvKGtAQwgJTeu1j2jsg64hGSggVEnlWwQ/edit?usp=sharing">link.
+<br/>
+ ![image](https://user-images.githubusercontent.com/129348678/231305021-95c330a9-39cc-4874-9ece-4fb02d901b8f.png)
+<br/><br/>
+ ![image](https://user-images.githubusercontent.com/129348678/231304940-404891b7-551b-4648-9973-1faf3e534d1f.png)
+<br/><br/>
+ 
+ 
+ 
 <h3>Summary and Recommendations</h3>
 
 
