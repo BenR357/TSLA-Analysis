@@ -21,7 +21,7 @@ Disclaimer: Please note that Stonebridge Investments is a fictitious company and
 <h2>Walk-through Summary:</h2>
 
  <h3>R Programming</h3>
-R programming is a powerful data analysis and visualization software. I began with importing the information R (into https://posit.cloud/) and cleaning the data. Utilizing the software, I exported several different statistics and created a variety of graphs in order to visualize the data. I have included a few screen shots of my code and visualizations. To see the entire markdown report, click this (TSLA Walkthrough.html) link
+R programming is a robust software tool for data analysis and visualization. In my project, I started by importing data into R from https://posit.cloud/ and performing data cleaning tasks. Leveraging the capabilities of R, I extracted various statistics and generated visualizations to gain insights from the data. I have included screenshots of my code and visualizations to showcase the analysis and visualization process. To see the entire markdown report, click this (TSLA Walkthrough.html) link
 
 <br /><br />
  ![image](https://user-images.githubusercontent.com/129348678/231303470-f2508553-58e9-4b96-9a43-2b352c17e48c.png)
