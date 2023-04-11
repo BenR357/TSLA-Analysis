@@ -37,14 +37,18 @@ I used Google Slides to create a presentation for showcasing the data. I have at
  
 <br/><br/>
  ![image](https://user-images.githubusercontent.com/129348678/231304940-404891b7-551b-4648-9973-1faf3e534d1f.png)
-<br/><br/>
+
+ <br/><br/>
+ 
  ![image](https://user-images.githubusercontent.com/129348678/231305420-d423186b-5921-490f-b67e-e851ba609c9f.png)
 
  <br/>
 <h3>Summary and Recommendations</h3>
+
  After thorough analysis, my conclusions are as follows:
- <ul>
-<li>Both TSLA and SPY have positive slopes, indicating a generally increasing trend in their stock prices over time.</li>
+<ul>
+
+ <li>Both TSLA and SPY have positive slopes, indicating a generally increasing trend in their stock prices over time.</li>
 <li>The slope of TSLA is higher than that of SPY, suggesting that TSLA has been increasing at a faster rate than SPY.
 </li>
 <li>The R-squared value for TSLA and SPY is 0.36 and 0.4 respectively, indicating that the regression line explains less than half of the variability in TSLA and SPY stock prices. This suggests that there may be other factors affecting the stock prices beyond the ones included in the regression analysis.
