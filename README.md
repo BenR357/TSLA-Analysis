@@ -32,13 +32,23 @@ R programming is a robust software tool for data analysis and visualization. In 
 <h3>Presentation</h3>
 I used Google Slides to create a presentation for showcasing the data. I have attached a couple of images for a quick review. While other visualization software may offer more visually appealing charts, I chose to include the R programming charts to demonstrate my proficiency in R programming. To see the presentation itself, follow this <a href="https://docs.google.com/presentation/d/1bxI4LqNQNOwvKGtAQwgJTeu1j2jsg64hGSggVEnlWwQ/edit?usp=sharing">link.
 <br/>
- ![image](https://user-images.githubusercontent.com/129348678/231305021-95c330a9-39cc-4874-9ece-4fb02d901b8f.png)
+ 
+![image](https://user-images.githubusercontent.com/129348678/231305273-0609a0cc-0497-4435-a17b-c4fc8bb9c1fd.png)
+ 
 <br/><br/>
  ![image](https://user-images.githubusercontent.com/129348678/231304940-404891b7-551b-4648-9973-1faf3e534d1f.png)
 <br/><br/>
- 
- 
- 
+ ![image](https://user-images.githubusercontent.com/129348678/231305420-d423186b-5921-490f-b67e-e851ba609c9f.png)
+
+ <br/>
 <h3>Summary and Recommendations</h3>
-
-
+ After thorough analysis, my conclusions are as follows:
+ <ul>
+<li>Both TSLA and SPY have positive slopes, indicating a generally increasing trend in their stock prices over time.</li>
+<li>The slope of TSLA is higher than that of SPY, suggesting that TSLA has been increasing at a faster rate than SPY.
+</li>
+<li>The R-squared value for TSLA and SPY is 0.36 and 0.4 respectively, indicating that the regression line explains less than half of the variability in TSLA and SPY stock prices. This suggests that there may be other factors affecting the stock prices beyond the ones included in the regression analysis.
+</li>
+<li>This analysis suggests that Tesla's stock price had strong growth during analyzed time period, outpacing the broader market represented by SPY.</li>
+<li>Overall, the results suggest that TSLA may be a more volatile and unpredictable stock than SPY, but TSLA may offer more returns given its lower R-squared value and higher slope. However, further analysis would be needed to confirm this.
+</li>
